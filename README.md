@@ -10,7 +10,7 @@
 - 👀 I’m interested in software <br>
 - 🌱 I’m currently learning .Net Core <br>
 - 💞️ I’m looking to collaborate on C# <br>
-<br> <br>
+<br> 
 
   <h2> Get in touch with me </h2>
 
