@@ -10,6 +10,8 @@
 - 👀 I’m interested in software <br>
 - 🌱 I’m currently learning .Net Core <br>
 - 💞️ I’m looking to collaborate on C# <br>
+ - 🥅 2023 Goals: Learning Elasticsearch, React Native, RabbitMQ, Redis and Rest API 🌎
+ 
 <br> 
 
   <h2> Get in touch with me </h2>
