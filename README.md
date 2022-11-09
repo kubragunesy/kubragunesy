@@ -10,11 +10,9 @@
 - 👀 I’m interested in software <br>
 - 🌱 I’m currently learning .Net Core <br>
 - 💞️ I’m looking to collaborate on C# <br>
-- 📫 How to reach me> kubragunes76@gmail.com <br> <br>
-  
-  
-  
-  <h2>📩 Get in touch with me </h2>
+<br> <br>
+
+  <h2> Get in touch with me </h2>
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
