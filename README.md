@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Secular+One&weight=500&size=40&duration=2000&pause=300&color=000000&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+K%C3%BCbra+G%C3%BCne%C5%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Secular+One&weight=500&size=40&duration=5000&pause=300&color=000000&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+K%C3%BCbra+G%C3%BCne%C5%9F)](https://git.io/typing-svg)
 
 
 <div id="header" align="center">
